@@ -112,3 +112,7 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 
 - [bibliography](https://github.com/vedph/cadmus-general/blob/master/docs/bibliography.md)
 - [doc references](https://github.com/vedph/cadmus-general/blob/master/docs/doc-references.md)
+
+## History
+
+- 2024-05-23: updated packages.
