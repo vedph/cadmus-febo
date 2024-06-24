@@ -19,14 +19,16 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 - [categories:topic](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 - [index keywords](https://github.com/vedph/cadmus-general/blob/master/docs/index-keywords.md)
 - [support](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-support.md)
+- [support fragments](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-support-frr.md)
 - [writing](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-writing.md)
+- [signs](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-signs.md)
 - [note](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 
 (b) localization:
 
 - [locations](https://github.com/vedph/cadmus-geo/blob/master/docs/asserted-locations.md)
 - [toponyms](https://github.com/vedph/cadmus-geo/blob/master/docs/asserted-toponyms.md)
-- [historical date](https://github.com/vedph/cadmus-general/blob/master/docs/historical-date.md)
+- [chronotopes](https://github.com/vedph/cadmus-general/blob/master/docs/chronotopes.md)
 
 (c) text:
 
@@ -114,6 +116,10 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 - [doc references](https://github.com/vedph/cadmus-general/blob/master/docs/doc-references.md)
 
 ## History
+
+### 0.0.5
+
+- 2024-06-24: updated packages.
 
 ### 0.0.3
 
