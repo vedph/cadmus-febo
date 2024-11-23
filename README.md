@@ -1,4 +1,4 @@
-# Cadmus FeBo Core
+﻿# Cadmus FeBo Core
 
 This package contains the core services for the Cadmus FeBo (_Federalism and Border Management in Greek Antiquity_) project. Currently, the project does not use any specific model, so the only library here is the services library, which uses models from Cadmus general, philology, epigraphy, and geography parts.
 
@@ -116,6 +116,10 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 - [doc references](https://github.com/vedph/cadmus-general/blob/master/docs/doc-references.md)
 
 ## History
+
+### 1.0.0
+
+- 2024-11-23: ⚠️ upgraded to .NET 9.
 
 ### 0.0.8
 
