@@ -117,6 +117,10 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 
 ## History
 
+### 1.0.1
+
+- 2024-11-30: updated packages.
+
 ### 1.0.0
 
 - 2024-11-23: ⚠️ upgraded to .NET 9.
