@@ -39,7 +39,7 @@ public sealed class FeboRepositoryProvider : IRepositoryProvider
             // Cadmus.Philology.Parts
             typeof(ApparatusLayerFragment).GetTypeInfo().Assembly,
             // Cadmus.Epigraphy.Parts
-            typeof(EpiWritingPart).GetTypeInfo().Assembly,
+            typeof(EpiScriptsPart).GetTypeInfo().Assembly,
             // Cadmus.Geo.Parts
             typeof(AssertedLocationsPart).GetTypeInfo().Assembly
         ]);

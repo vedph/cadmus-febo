@@ -28,7 +28,7 @@ public sealed class FeboPartSeederFactoryProvider :
             // Cadmus.Seed.Philology.Parts
             typeof(ApparatusLayerFragmentSeeder).Assembly,
             // Cadmus.Seed.Epigraphy.Parts
-            typeof(EpiWritingPartSeeder).GetTypeInfo().Assembly,
+            typeof(EpiScriptsPartSeeder).GetTypeInfo().Assembly,
             // Cadmus.Seed.Geo.Parts
             typeof(AssertedLocationsPartSeeder).GetTypeInfo().Assembly
         ];

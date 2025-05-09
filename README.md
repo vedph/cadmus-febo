@@ -20,7 +20,7 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 - [index keywords](https://github.com/vedph/cadmus-general/blob/master/docs/index-keywords.md)
 - [support](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-support.md)
 - [support fragments](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-support-frr.md)
-- [writing](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-writing.md)
+- [scripts](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-scripts.md)
 - [signs](https://github.com/vedph/cadmus-epigraphy/blob/master/docs/epi-signs.md)
 - [note](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 
@@ -116,6 +116,10 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 - [doc references](https://github.com/vedph/cadmus-general/blob/master/docs/doc-references.md)
 
 ## History
+
+### 2.0.0
+
+- 2025-05-09: ⚠️ updated packages (new epigraphic models).
 
 ### 1.0.3
 
