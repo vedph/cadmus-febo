@@ -117,6 +117,10 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 
 ## History
 
+### 2.0.1
+
+- 2025-09-23: updated packages.
+
 ### 2.0.0
 
 - 2025-05-09: ⚠️ updated packages (new epigraphic models).
