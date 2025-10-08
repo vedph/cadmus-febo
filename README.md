@@ -14,7 +14,7 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 (a) general:
 
 - [metadata](https://github.com/vedph/cadmus-general/blob/master/docs/metadata.md)
-- [external IDs](https://github.com/vedph/cadmus-general/blob/master/docs/external-ids.md)
+- [links](https://github.com/vedph/cadmus-general/blob/master/docs/pin-links.md)
 - [categories:function](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 - [categories:topic](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 - [index keywords](https://github.com/vedph/cadmus-general/blob/master/docs/index-keywords.md)
@@ -53,6 +53,7 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 (a) general:
 
 - [metadata](https://github.com/vedph/cadmus-general/blob/master/docs/metadata.md)
+- [links](https://github.com/vedph/cadmus-general/blob/master/docs/pin-links.md)
 - [categories:topic](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 - [index keywords](https://github.com/vedph/cadmus-general/blob/master/docs/index-keywords.md)
 - [note](https://github.com/vedph/cadmus-general/blob/master/docs/note.md)
@@ -79,7 +80,7 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 (a) general:
 
 - [metadata](https://github.com/vedph/cadmus-general/blob/master/docs/metadata.md)
-- [external IDs](https://github.com/vedph/cadmus-general/blob/master/docs/external-ids.md)
+- [links](https://github.com/vedph/cadmus-general/blob/master/docs/pin-links.md)
 - [categories:topic](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 - [index keywords](https://github.com/vedph/cadmus-general/blob/master/docs/index-keywords.md)
 - [note](https://github.com/vedph/cadmus-general/blob/master/docs/note.md)
@@ -99,7 +100,7 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 (a) general:
 
 - [metadata](https://github.com/vedph/cadmus-general/blob/master/docs/metadata.md)
-- [external IDs](https://github.com/vedph/cadmus-general/blob/master/docs/external-ids.md)
+- [links](https://github.com/vedph/cadmus-general/blob/master/docs/pin-links.md)
 - [names](https://github.com/vedph/cadmus-general/blob/master/docs/names.md)
 - [categories:actor](https://github.com/vedph/cadmus-general/blob/master/docs/categories.md)
 - [index keywords](https://github.com/vedph/cadmus-general/blob/master/docs/index-keywords.md)
