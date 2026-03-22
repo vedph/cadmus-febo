@@ -4,9 +4,9 @@
 		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>disable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<Version>3.0.2</Version>
-		<FileVersion>3.0.2</FileVersion>
-		<AssemblyVersion>3.0.2</AssemblyVersion>
+		<Version>3.0.3</Version>
+		<FileVersion>3.0.3</FileVersion>
+		<AssemblyVersion>3.0.3</AssemblyVersion>
 		<Authors>Daniele Fusi</Authors>
 		<Company>Fusi</Company>
 		<Product>Cadmus</Product>
@@ -18,12 +18,12 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Cadmus.Core" Version="10.0.3" />
+		<PackageReference Include="Cadmus.Core" Version="10.0.4" />
 		<PackageReference Include="Cadmus.Epigraphy.Parts" Version="9.0.2" />
 		<PackageReference Include="Cadmus.General.Parts" Version="8.0.2" />
 		<PackageReference Include="Cadmus.Geo.Parts" Version="6.0.1" />
-		<PackageReference Include="Cadmus.Index.Sql" Version="10.0.3" />
-		<PackageReference Include="Cadmus.Mongo" Version="10.0.3" />
+		<PackageReference Include="Cadmus.Index.Sql" Version="10.0.4" />
+		<PackageReference Include="Cadmus.Mongo" Version="10.0.4" />
 		<PackageReference Include="Cadmus.Philology.Parts" Version="12.0.2" />
 		<PackageReference Include="Cadmus.Seed.Epigraphy.Parts" Version="9.0.2" />
 		<PackageReference Include="Cadmus.Seed.General.Parts" Version="8.0.2" />

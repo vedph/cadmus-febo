@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Cli.ps1" />
+    <File Path="Pack.bat" />
+    <File Path="Push.bat" />
+    <File Path="PushLocal.bat" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Cadmus.Febo.Services/Cadmus.Febo.Services.csproj" />
+</Solution>

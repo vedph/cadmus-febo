@@ -118,6 +118,10 @@ Reference: [Cadmus shared models](https://myrmex.github.io/overview/cadmus/dev/m
 
 ## History
 
+### 3.0.3
+
+- 2026-03-22: updated packages.
+
 ### 3.0.2
 
 - 2026-02-17: updated packages.
