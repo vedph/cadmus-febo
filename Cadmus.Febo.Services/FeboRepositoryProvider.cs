@@ -7,7 +7,6 @@ using Cadmus.General.Parts;
 using Cadmus.Philology.Parts;
 using System;
 using Cadmus.Epigraphy.Parts;
-using Cadmus.Geo.Parts;
 
 namespace Cadmus.Febo.Services;
 
@@ -41,7 +40,7 @@ public sealed class FeboRepositoryProvider : IRepositoryProvider
             // Cadmus.Epigraphy.Parts
             typeof(EpiScriptsPart).GetTypeInfo().Assembly,
             // Cadmus.Geo.Parts
-            typeof(AssertedLocationsPart).GetTypeInfo().Assembly
+            // typeof(AssertedLocationsPart).GetTypeInfo().Assembly
         ]);
 
         _partTypeProvider = new StandardPartTypeProvider(map);
