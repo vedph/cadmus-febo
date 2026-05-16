@@ -7,6 +7,10 @@ This package contains the core services for the Cadmus FeBo (_Federalism and Bor
 
 ## History
 
+### 3.0.5
+
+- 2026-05-16: updated packages.
+
 ### 3.0.4
 
 - 2026-03-27: refactored models removing geography parts.
