@@ -7,6 +7,10 @@ This package contains the core services for the Cadmus FeBo (_Federalism and Bor
 
 ## History
 
+### 3.0.8
+
+- 2026-09-15: updated packages.
+
 ### 3.0.7
 
 - 2026-08-25: updated packages.

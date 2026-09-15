@@ -4,9 +4,9 @@
 		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>disable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<Version>3.0.7</Version>
-		<FileVersion>3.0.7</FileVersion>
-		<AssemblyVersion>3.0.7</AssemblyVersion>
+		<Version>3.0.8</Version>
+		<FileVersion>3.0.8</FileVersion>
+		<AssemblyVersion>3.0.8</AssemblyVersion>
 		<Authors>Daniele Fusi</Authors>
 		<Company>Fusi</Company>
 		<Product>Cadmus</Product>
@@ -25,17 +25,17 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Cadmus.Core" Version="16.0.0" />
-		<PackageReference Include="Cadmus.Epigraphy.Parts" Version="9.0.4" />
-		<PackageReference Include="Cadmus.General.Parts" Version="16.0.0" />
-		<PackageReference Include="Cadmus.Index.Sql" Version="16.0.0" />
-		<PackageReference Include="Cadmus.Mongo" Version="16.0.0" />
-		<PackageReference Include="Cadmus.Philology.Parts" Version="16.0.0" />
-		<PackageReference Include="Cadmus.Seed.Epigraphy.Parts" Version="9.0.4" />
-		<PackageReference Include="Cadmus.Seed.General.Parts" Version="16.0.0" />
-		<PackageReference Include="Cadmus.Seed.Geo.Parts" Version="6.0.4" />
-		<PackageReference Include="Cadmus.Seed.Philology.Parts" Version="16.0.0" />
+		<PackageReference Include="Cadmus.Core" Version="16.0.4" />
+		<PackageReference Include="Cadmus.Epigraphy.Parts" Version="9.0.5" />
+		<PackageReference Include="Cadmus.General.Parts" Version="16.0.4" />
+		<PackageReference Include="Cadmus.Index.Sql" Version="16.0.4" />
+		<PackageReference Include="Cadmus.Mongo" Version="16.0.4" />
+		<PackageReference Include="Cadmus.Philology.Parts" Version="16.0.4" />
+		<PackageReference Include="Cadmus.Seed.Epigraphy.Parts" Version="9.0.5" />
+		<PackageReference Include="Cadmus.Seed.General.Parts" Version="16.0.4" />
+		<PackageReference Include="Cadmus.Seed.Geo.Parts" Version="6.0.5" />
+		<PackageReference Include="Cadmus.Seed.Philology.Parts" Version="16.0.4" />
 		<PackageReference Include="Fusi.Microsoft.Extensions.Configuration.InMemoryJson" Version="5.0.0" />
-		<PackageReference Include="Microsoft.SourceLink.GitHub" PrivateAssets="All" Version="10.0.400" />
+		<PackageReference Include="Microsoft.SourceLink.GitHub" PrivateAssets="All" Version="10.0.401" />
 	</ItemGroup>
 </Project>
